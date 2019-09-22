@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux_movie/static/css/main.50b6168b.chunk.css",
+    "main.js": "/redux_movie/static/js/main.04c5c680.chunk.js",
+    "main.js.map": "/redux_movie/static/js/main.04c5c680.chunk.js.map",
+    "runtime~main.js": "/redux_movie/static/js/runtime~main.96f0476c.js",
+    "runtime~main.js.map": "/redux_movie/static/js/runtime~main.96f0476c.js.map",
+    "static/js/2.60e98782.chunk.js": "/redux_movie/static/js/2.60e98782.chunk.js",
+    "static/js/2.60e98782.chunk.js.map": "/redux_movie/static/js/2.60e98782.chunk.js.map",
+    "index.html": "/redux_movie/index.html",
+    "precache-manifest.d14c6fdfe234cb02d316b37e964c473f.js": "/redux_movie/precache-manifest.d14c6fdfe234cb02d316b37e964c473f.js",
+    "service-worker.js": "/redux_movie/service-worker.js",
+    "static/css/main.50b6168b.chunk.css.map": "/redux_movie/static/css/main.50b6168b.chunk.css.map"
+  }
+}
